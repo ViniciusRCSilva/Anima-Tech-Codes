@@ -11,7 +11,7 @@
   </div>
   <div align="center">
     <img alt="JS" src="https://img.shields.io/badge/javascript%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=gray"/>
-    <img alt="ASPNET" src="https://img.shields.io/badge/asp.net%20-12358a?style=for-the-badge"/>
+    <img alt="ASPNET" src="https://img.shields.io/badge/asp.net%20-12358a?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img alt="VUEJS" src="https://img.shields.io/badge/vue.js%20-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
   </div>
 </div>
