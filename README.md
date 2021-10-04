@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💻 ÂnimaTech Codes 💻</h1>
+  <h1>💻 <img width="150" src="https://admanalisa.genialinvestimentos.com.br/wp-content/uploads/2021/03/logo-anima-02.png"> 💻</h1>
   <h2>Objetivo do repositório 🎯:</h2>
   <p>Armazenar códigos e desafios propostos no treinamento da  nimaTech, em colaboração com a Gama Academy.</p>
 
