@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💻  nimaTech Codes 💻</h1>
+  <h1>💻 ÂnimaTech Codes 💻</h1>
   <h2>Objetivo do repositório 🎯:</h2>
   <p>Armazenar códigos e desafios propostos no treinamento da  nimaTech, em colaboração com a Gama Academy.</p>
 
