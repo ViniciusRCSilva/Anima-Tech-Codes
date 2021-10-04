@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 03</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="icon" type="imagem/png" href="icons8-javascript-48.png" />
+</head>
+<body>
+    <div align="center">
+        <h1>Trabalhando com variáveis numéricas</h1>
+    </div>
+
+    <script>
+        let n1 = Number.parseInt(window.prompt(`Digite o primeiro número:`));
+        let n2 = Number.parseInt(window.prompt(`Digite o segundo número:`));
+        let soma = n1+n2;
+        let subt = n1-n2;
+        let mult = n1*n2;
+        let divi = n1/n2;
+
+        window.alert(`
+        | Soma de ${n1} + ${n2} = ${soma} | 
+        | Subtração de ${n1} - ${n2} = ${subt} | 
+        | Multiplicação de ${n1} * ${n2} = ${mult} | 
+        | Divisão de ${n1} / ${n2} = ${divi} |
+        `);
+    </script>
+</body>
+</html>

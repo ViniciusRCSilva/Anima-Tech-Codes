@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventos DOM</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="icon" type="imagem/png" href="icons8-javascript-48.png" />
+</head>
+<body>
+    <div class='box' id='area' onclick="clicar()" onmouseenter="entrar()" onmouseout="sair()">
+        Interagir
+    </div>
+
+    <script>
+        var a = window.document.getElementById('area');
+
+        function clicar() {
+            a.innerText = 'Clicou';
+            a.style.transition = '1s';
+            a.style.background = 'rgb(255, 123, 0)';
+            a.style.color = 'rgb(27, 27, 27)';
+        }
+
+        function entrar() {
+            a.innerText = 'Entrou';
+            a.style.transition = '1s';
+            a.style.background = 'rgb(59, 0, 65)';
+            a.style.color = 'white';
+        }
+
+        function sair() {
+            a.innerText = 'Interagir';
+            a.style.transition = '1s';
+            a.style.background = 'rgb(27, 27, 27)';
+            a.style.color = 'white';
+        }
+    </script>
+</body>
+</html>

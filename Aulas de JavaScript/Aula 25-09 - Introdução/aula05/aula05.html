@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 05</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+    <link rel="icon" type="imagem/png" href="icons8-javascript-48.png" />
+</head>
+<body>
+    <h1>Somando Valores</h1>
+    <div class="centro">
+        <input type="number" name="n1" id="nsm1" placeholder="Digite o valor 1">
+        +
+        <input type="number" name="n2" id="nsm2" placeholder="Digite o valor 2">
+        <input class="botao" type="button" value="Somar" onclick="somar()">
+        <div class="divResultado">
+            <label>Resultado</label><div class="resultado" id="resSoma"></div>
+        </div>
+
+        <div class="linha"></div>
+
+        <input type="number" name="n1" id="nsb1" placeholder="Digite o valor 1">
+        -
+        <input type="number" name="n2" id="nsb2" placeholder="Digite o valor 2">
+        <input class="botao" type="button" value="Subtrair" onclick="subtrair()">
+        <div class="divResultado">
+            <label>Resultado</label><div class="resultado" id="resSub"></div>
+        </div>
+
+        <div class="linha"></div>
+
+        <input type="number" name="n1" id="nm1" placeholder="Digite o valor 1">
+        *
+        <input type="number" name="n2" id="nm2" placeholder="Digite o valor 2">
+        <input class="botao" type="button" value="Multiplicar" onclick="multiplicar()">
+        <div class="divResultado">
+            <label>Resultado</label><div class="resultado" id="resMult"></div>
+        </div>
+
+        <div class="linha"></div>
+
+        <input type="number" name="n1" id="nd1" placeholder="Digite o valor 1">
+        /
+        <input type="number" name="n2" id="nd2" placeholder="Digite o valor 2">
+        <input class="botao" type="button" value="Dividir" onclick="dividir()">
+        <div class="divResultado">
+            <label>Resultado</label><div class="resultado" id="resDiv"></div>
+        </div>
+    </div>
+
+    <script>
+        function somar() {
+            let tn1  = window.document.getElementById('nsm1');
+            let tn2  = window.document.getElementById('nsm2');
+            let res = window.document.getElementById('resSoma');
+
+            let n1 = Number(tn1.value);
+            let n2 = Number(tn2.value);
+            let soma = n1+n2;
+
+            res.innerHTML = `<strong>${soma}</strong>`;
+        }
+
+        function subtrair() {
+            let tn1  = window.document.getElementById('nsb1');
+            let tn2  = window.document.getElementById('nsb2');
+            let res = window.document.getElementById('resSub');
+
+            let n1 = Number(tn1.value);
+            let n2 = Number(tn2.value);
+            let subtracao = n1-n2;
+
+            res.innerHTML = `<strong>${subtracao}</strong>`;
+        }
+
+        function multiplicar() {
+            let tn1  = window.document.getElementById('nm1');
+            let tn2  = window.document.getElementById('nm2');
+            let res = window.document.getElementById('resMult');
+
+            let n1 = Number(tn1.value);
+            let n2 = Number(tn2.value);
+            let multiplicacao = n1*n2;
+
+            res.innerHTML = `<strong>${multiplicacao}</strong>`;
+        }
+
+        function dividir() {
+            let tn1  = window.document.getElementById('nd1');
+            let tn2  = window.document.getElementById('nd2');
+            let res = window.document.getElementById('resDiv');
+
+            let n1 = Number(tn1.value);
+            let n2 = Number(tn2.value);
+            let divisao = n1/n2;
+
+            res.innerHTML = `<strong>${divisao}</strong>`;
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\bin\Debug\net5.0\aula10.exe
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\bin\Debug\net5.0\aula10.deps.json
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\bin\Debug\net5.0\aula10.runtimeconfig.json
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\bin\Debug\net5.0\aula10.runtimeconfig.dev.json
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\bin\Debug\net5.0\aula10.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\bin\Debug\net5.0\ref\aula10.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\bin\Debug\net5.0\aula10.pdb
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\aula10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\aula10.AssemblyInfoInputs.cache
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\aula10.AssemblyInfo.cs
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\aula10.csproj.CoreCompileInputs.cache
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\aula10.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\ref\aula10.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\aula10.pdb
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula10\aula10\obj\Debug\net5.0\aula10.genruntimeconfig.cache

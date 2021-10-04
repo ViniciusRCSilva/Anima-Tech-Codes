@@ -1,0 +1,16 @@
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\bin\Debug\net5.0\aula08.exe
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\bin\Debug\net5.0\aula08.deps.json
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\bin\Debug\net5.0\aula08.runtimeconfig.json
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\bin\Debug\net5.0\aula08.runtimeconfig.dev.json
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\bin\Debug\net5.0\aula08.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\bin\Debug\net5.0\ref\aula08.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\bin\Debug\net5.0\aula08.pdb
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.csproj.AssemblyReference.cache
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.AssemblyInfoInputs.cache
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.AssemblyInfo.cs
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.csproj.CoreCompileInputs.cache
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\ref\aula08.dll
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.pdb
+D:\Users\vinic\Desktop\FACULDADE\ESTUDOS\Gama Experience\C#\Aula 01-10 - C#\aula08\aula08\obj\Debug\net5.0\aula08.genruntimeconfig.cache
