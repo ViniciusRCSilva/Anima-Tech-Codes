@@ -1,19 +1,19 @@
-# rick-morty
+# Consumindo a API do Rick And Morty
 
-## Project setup
+## Instalar a configuração do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile e carrege para começar a desenvolver
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e minimiza para produção
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configurações de customização
+Clique para ver as [Referências](https://cli.vuejs.org/config/).
